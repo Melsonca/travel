@@ -1,0 +1,15 @@
+.my_btn {
+  background-color: red;
+  color: white;
+}
+
+.carousel-item img {
+  height: 100vh;
+
+  object-fit: cover;
+}
+
+.card image {
+  height: 70vh;
+  object-fit: cover;
+}
